@@ -1,5 +1,3 @@
-# krimmy.github.io
-
 # Software Engineering Student
 
 ### Education
